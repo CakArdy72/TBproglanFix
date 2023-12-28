@@ -1,0 +1,14 @@
+Transaksi #1
+Barang: Donat
+Jumlah: 3
+Total Harga: 6000
+
+Transaksi #1
+Barang: Air Mineral
+Jumlah: 1
+Total Harga: 6000
+
+Total Pembayaran: 12000
+Bayar: 12000
+Kembalian: 0
+---------------------------

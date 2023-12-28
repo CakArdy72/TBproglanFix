@@ -1,0 +1,19 @@
+Transaksi #1
+Barang: Pasta Gigi
+Jumlah: 4
+Total Harga: 40000
+
+Transaksi #1
+Barang: null
+Jumlah: 1
+Total Harga: 0
+
+Transaksi #1
+Barang: Kripik Kentang
+Jumlah: 1
+Total Harga: 7500
+
+Total Pembayaran: 47500
+Bayar: 50000
+Kembalian: 2500
+---------------------------

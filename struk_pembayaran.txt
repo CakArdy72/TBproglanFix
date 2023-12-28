@@ -1,0 +1,98 @@
+Transaksi #1
+Barang: Sabun
+Jumlah: 3
+Total Harga: 45000
+
+Transaksi #1
+Barang: Shampoo
+Jumlah: 1
+Total Harga: 20000
+
+Total Pembayaran: 65000
+Bayar: 70000
+Kembalian: 5000
+---------------------------
+Transaksi #1
+Barang: Sabun
+Jumlah: 3
+Total Harga: 45000
+
+Transaksi #1
+Barang: Shampoo
+Jumlah: 1
+Total Harga: 20000
+
+Total Pembayaran: 65000
+Bayar: 70000
+Kembalian: 5000
+---------------------------
+Transaksi #2
+Barang: Sabun
+Jumlah: 10
+Total Harga: 150000
+
+Total Pembayaran: 150000
+Bayar: 700000
+Kembalian: 550000
+---------------------------
+Transaksi #1
+Barang: Sabun
+Jumlah: 1
+Total Harga: 15000
+
+Total Pembayaran: 15000
+Bayar: 20000
+Kembalian: 5000
+---------------------------
+Transaksi #1
+Barang: Donat
+Jumlah: 3
+Total Harga: 6000
+
+Transaksi #1
+Barang: Air Mineral
+Jumlah: 1
+Total Harga: 6000
+
+Total Pembayaran: 12000
+Bayar: 12000
+Kembalian: 0
+---------------------------
+Transaksi #1
+Barang: Sabun
+Jumlah: 3
+Total Harga: 45000
+
+Transaksi #1
+Barang: Pasta Gigi
+Jumlah: 1
+Total Harga: 10000
+
+Transaksi #1
+Barang: Shampoo
+Jumlah: 5
+Total Harga: 100000
+
+Total Pembayaran: 155000
+Bayar: 200000
+Kembalian: 45000
+---------------------------
+Transaksi #1
+Barang: Sabun
+Jumlah: 3
+Total Harga: 45000
+
+Transaksi #1
+Barang: Pasta Gigi
+Jumlah: 1
+Total Harga: 10000
+
+Transaksi #1
+Barang: Shampoo
+Jumlah: 5
+Total Harga: 100000
+
+Total Pembayaran: 155000
+Bayar: 200000
+Kembalian: 45000
+---------------------------

@@ -1,0 +1,9 @@
+Transaksi #1
+Barang: Sosis
+Jumlah: 9
+Total Harga: 27000
+
+Total Pembayaran: 27000
+Bayar: 1000000
+Kembalian: 973000
+---------------------------

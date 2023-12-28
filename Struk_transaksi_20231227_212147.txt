@@ -1,0 +1,9 @@
+Transaksi #1
+Barang: Pasta Gigi
+Jumlah: 1
+Total Harga: 10000
+
+Total Pembayaran: 10000
+Bayar: 1000000
+Kembalian: 990000
+---------------------------

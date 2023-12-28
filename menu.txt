@@ -1,0 +1,10 @@
+Shampoo=20000
+Sabun=15000
+Pasta Gigi=10000
+Deterjen=23500
+
+
+Air Mineral=6000
+Sosis=3000
+Donat=2000
+Kripik Kentang=7500

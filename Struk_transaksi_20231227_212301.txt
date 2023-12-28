@@ -1,0 +1,14 @@
+Transaksi #1
+Barang: Kripik Kentang
+Jumlah: 1
+Total Harga: 7500
+
+Transaksi #1
+Barang: null
+Jumlah: 1
+Total Harga: 0
+
+Total Pembayaran: 7500
+Bayar: 1000000
+Kembalian: 992500
+---------------------------

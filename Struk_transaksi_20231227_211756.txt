@@ -1,0 +1,19 @@
+Transaksi #1
+Barang: Sabun
+Jumlah: 3
+Total Harga: 45000
+
+Transaksi #1
+Barang: Pasta Gigi
+Jumlah: 1
+Total Harga: 10000
+
+Transaksi #1
+Barang: Shampoo
+Jumlah: 5
+Total Harga: 100000
+
+Total Pembayaran: 155000
+Bayar: 200000
+Kembalian: 45000
+---------------------------

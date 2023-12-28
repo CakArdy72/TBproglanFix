@@ -1,0 +1,9 @@
+Transaksi #1
+Barang: Donat
+Jumlah: 4
+Total Harga: 8000
+
+Total Pembayaran: 8000
+Bayar: 10000
+Kembalian: 2000
+---------------------------

@@ -1,0 +1,9 @@
+Transaksi #1
+Barang: Sabun
+Jumlah: 1
+Total Harga: 15000
+
+Total Pembayaran: 15000
+Bayar: 15000
+Kembalian: 0
+---------------------------
